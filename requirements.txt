@@ -1,0 +1,5 @@
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+flask-cors==3.0.7 
+flask-restplus==0.12.1
+googletrans==2.4.0
